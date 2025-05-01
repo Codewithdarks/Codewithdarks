@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm **Amit Tiwari**, a passionate **Junior MERN St
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on building a **CRM system** for my father's Hydra Crane service business.
+- 🔭 I’m currently working on building a **CRM system** for service business.
 - 🌱 I’m learning **JavaScript**, **NodeJS** **React.js**, **AWS**, and **Docker** to enhance my full-stack development skills.
 - 👯 I’m looking to collaborate on **MERN stack** projects and **AI/ML** integrations.
 - 🤔 I’m looking for help with advanced **Node.js** concepts and scaling web applications.
