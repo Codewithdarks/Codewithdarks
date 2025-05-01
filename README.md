@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 Feel free to check out my repositories, and let’s connect!
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithdarks&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![GitHub followers](https://img.shields.io/github/followers/codewithdarks?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/codewithdarks?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/codewithdarks?style=social)
