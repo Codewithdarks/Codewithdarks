@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on building a **CRM system** for my father's Hydra Crane service business.
-- 🌱 I’m learning **React.js**, **AWS**, and **Docker** to enhance my full-stack development skills.
+- 🌱 I’m learning **JavaScript**, **NodeJS** **React.js**, **AWS**, and **Docker** to enhance my full-stack development skills.
 - 👯 I’m looking to collaborate on **MERN stack** projects and **AI/ML** integrations.
 - 🤔 I’m looking for help with advanced **Node.js** concepts and scaling web applications.
 - 💬 Ask me about **full-stack development**, **MongoDB**, or **JavaScript**.
@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 
 Feel free to check out my repositories, and let’s connect!
 
+![GitHub followers](https://img.shields.io/github/followers/codewithdarks?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/codewithdarks?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/codewithdarks?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+
+
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdarks&show_icons=true&theme=radical)
