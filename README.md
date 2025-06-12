@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Amit Tiwari**, a passionate **Junior MERN Stack Developer** with a focus on **JavaScript**, **Node.js**, and **MongoDB**. I love building web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm **Amit Tiwari**, a passionate **MERN Stack Developer** with a focus on **JavaScript**, **Node.js**, and **MongoDB**. I love building web applications and exploring new technologies.
 
 <!--
 **Codewithdarks/Codewithdarks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
